@@ -1,9 +1,6 @@
 # Bankist
 
-## Welcome to Bankist, the online banking app that makes managing your finances easy and convenient.
-## With a user-friendly interface and smooth animations, Bankist is the perfect solution for all your banking needs. 
-This project is built using HTML, CSS, and JavaScript, ensuring the highest level of functionality and aesthetic appeal. 
-Get started today and take control of your finances with Bankist.
+## Welcome to Bankist, the online banking app that makes managing your finances easy and convenient.__ With a user-friendly interface and smooth animations, Bankist is the perfect solution for all your banking needs.__ This project is built using HTML, CSS, and JavaScript, ensuring the highest level of functionality and aesthetic appeal.__ Get started today and take control of your finances with Bankist.
 
 
 This project was build through an online course provided by Jonas Schmedtmann on Udemy.com
@@ -19,8 +16,4 @@ Course detail : JavaScript 69h video course.
 
 Say hi ! I'm always excited to connect with new people !
 
-[My Linkedin](https://www.linkedin.com/in/vito-savalli/)
-
-Email: vito.savallimunoz@gmail.com
-
-tel: +33660696138
+[My Linkedin](https://www.linkedin.com/in/vito-savalli/)__ Email: vito.savallimunoz@gmail.com__ tel: +33660696138
