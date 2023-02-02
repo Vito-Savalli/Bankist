@@ -4,7 +4,7 @@ Welcome to Bankist, the online banking app that makes managing your finances eas
 
 ## Project Info
 
-This project was build through an online course provided by Jonas Schmedtmann on Udemy.com
+This project was built through an online course provided by Jonas Schmedtmann on Udemy.com
 
 Course : [The Complete JavaScript Course 2023](https://www.udemy.com/course/the-complete-javascript-course/)
 
