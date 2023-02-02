@@ -4,10 +4,15 @@ Welcome to Bankist, the online banking app that makes managing your finances eas
 
 This project was build through an online course provided by Jonas Schmedtmann on Udemy.com
 
-Course : 
+
+Course : The Complete JavaScript Course 2023: From Zero to Expert!
+
+Course detail : JavaScript 69h video course 
 
 Certification : <http://www.example.com>
 
-The Complete JavaScript Course 2023: From Zero to Expert!
+(https://www.google.com "Google's Homepage")
 
-My Linkedin : 
+Linkedin : 
+
+Say hi ! I'm always excited to connect with new people !
