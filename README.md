@@ -12,12 +12,12 @@ Course : [The Complete JavaScript Course 2023.](https://www.udemy.com/course/the
 
 Course detail : JavaScript 69h video course.
 
-[Certification](https://www.udemy.com/certificate/UC-c546146c-af07-4cbe-9461-bbb4f7f6402a/)
+[Certification.](https://www.udemy.com/certificate/UC-c546146c-af07-4cbe-9461-bbb4f7f6402a/)
 
 ## Let's Connect !
 
 Say hi ! I'm always excited to connect with new people !
 
-[My Linkedin](https://www.linkedin.com/in/vito-savalli/)  
+[My Linkedin &#8594;](https://www.linkedin.com/in/vito-savalli/)  
 &#9993; : vito.savallimunoz@gmail.com  
 &#128222; : +33660696138
