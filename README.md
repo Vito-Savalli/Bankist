@@ -20,4 +20,4 @@ Say hi ! I'm always excited to connect with new people !
 
 [My Linkedin](https://www.linkedin.com/in/vito-savalli/)  
 Email: vito.savallimunoz@gmail.com  
-	&#128241: +33660696138
+&#128241;: +33660696138
