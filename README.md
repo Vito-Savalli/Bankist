@@ -19,5 +19,5 @@ Course detail : JavaScript 69h video course.
 Say hi ! I'm always excited to connect with new people !
 
 [My Linkedin](https://www.linkedin.com/in/vito-savalli/)  
-&#9993; vito.savallimunoz@gmail.com  
-&#128222;: +33660696138
+&#9993;  vito.savallimunoz@gmail.com  
+&#128222;  +33660696138
