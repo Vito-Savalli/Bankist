@@ -10,7 +10,7 @@ This project was built through an online course provided by Jonas Schmedtmann on
 
 Course : [The Complete JavaScript Course 2023.](https://www.udemy.com/course/the-complete-javascript-course/)
 
-Course detail : JavaScript 69h video course.
+Course detail : Javascript advanced concepts 69h video course.
 
 [Certification.](https://www.udemy.com/certificate/UC-c546146c-af07-4cbe-9461-bbb4f7f6402a/)
 
