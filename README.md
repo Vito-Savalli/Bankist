@@ -1,6 +1,6 @@
 # Bankist
 
-Welcome to Bankist, the online banking app that makes managing your finances easy and convenient. <br />With a user-friendly interface and smooth animations, Bankist is the perfect solution for all your banking needs. <br /> This project is built using HTML, CSS, and JavaScript, ensuring the highest level of functionality and aesthetic appeal. <br /> Get started today and take control of your finances with Bankist.  
+Welcome to Bankist, the online banking app that makes managing your finances easy and convenient. <br />With a user-friendly interface and smooth animations, Bankist is the perfect solution for all your banking needs! <br /> This project is built using HTML, CSS, and JavaScript, ensuring the highest level of functionality and aesthetic appeal. <br /> Get started today and take control of your finances with Bankist.  
 
 [Visit Bankist &#8594;](https://vito-bankist.netlify.app/)
 
